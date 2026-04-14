@@ -48,7 +48,7 @@ tcs/
 1. Clone the repository
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/Glaser6/tcs.git
 cd tcs
 ```
 
@@ -117,7 +117,7 @@ tcs/
 1. 克隆仓库
 
 ```powershell
-git clone <你的仓库地址>
+git clone https://github.com/Glaser6/tcs.git
 cd tcs
 ```
 
