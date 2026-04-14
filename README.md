@@ -14,7 +14,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-enabled-654FF0?style=flat&logo=webassembly)](https://webassembly.org/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat)](#)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat)]([#](https://github.com/Glaser6/tcs.git))
 
 </div>
 
