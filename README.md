@@ -14,8 +14,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-enabled-654FF0?style=flat&logo=webassembly)](https://webassembly.org/)
-[![License](https://img.shields.io/badge/license-MIT-green?style=flat)]([#](https://github.com/Glaser6/tcs.git))
-
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat)](https://github.com/Glaser6/tcs/tree/main?tab=MIT-1-ov-file)
 </div>
 
 This project helps you quickly practice two useful Go skills in one repo:
