@@ -57,20 +57,20 @@ cd tcs
 cd gowasm
 $env:GOOS="js"
 $env:GOARCH="wasm"
-go build -o snake.wasm .
+go build -o snake.wasm main.go
 ```
 
 3. Start Wasm static server (port 8088)
 
 ```powershell
-go run server.go
+go build server.go
 ```
 
 4. Open a new terminal and start gateway (port 8080)
 
 ```powershell
 cd ..\gateway
-go run main.go
+go build .
 ```
 
 5. Open in browser
@@ -126,7 +126,7 @@ cd tcs
 cd gowasm
 $env:GOOS="js"
 $env:GOARCH="wasm"
-go build -o snake.wasm .
+go build -o snake.wasm main.go
 ```
 
 3. 启动 Wasm 静态服务器（8088）
@@ -139,7 +139,7 @@ go run server.go
 
 ```powershell
 cd ..\gateway
-go run main.go
+go build .
 ```
 
 5. 浏览器访问
